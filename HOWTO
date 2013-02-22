@@ -1,0 +1,8 @@
+使用方法
+1. 将vimrc文件拷贝到家目录下的.vim/目录下，并命名为.vimrc
+2. 在~/ 目录下创建目录plugin/ 和templates/
+3. 在plugin/ 目录下创建template_load.vim文件
+4. 在templates/ 目录下创建模板文件
+   a. tpl.c - C模板文件
+   b. tpl.pl - Perl模板文件
+   ...
